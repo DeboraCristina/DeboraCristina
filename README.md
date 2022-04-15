@@ -7,7 +7,7 @@
 - 🔭 Ainda não sei bem em qual carreira seguir. Mas experimento de tudo um pouco 😃.
 - 🦊 Meus hobbies são jogar e criar jogos.
 - 🏕️ Sobrevivente do Base Camp 42São Paulo. 
-- 🌠 Cadente da 42São Paulo.
+- 🌠 Cadente da 42 São Paulo.
 
 #
 
