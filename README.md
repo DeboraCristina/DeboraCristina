@@ -15,8 +15,8 @@
   <a color="red" text-decoration="none" href="https://github.com/DeboraCristina">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=DeboraCristina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraCristina&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" width="40%" src="https://badge42.vercel.app/api/v2/cl1qj6fkg001609mcyfbtr00j/stats?cursusId=36&coalitionId=undefined"/>
-  <img height="180em" width="40%" src="https://badge42.vercel.app/api/v2/cl1qj6fkg001609mcyfbtr00j/stats?cursusId=21&coalitionId=undefined"/>
+  <!-- <img height="180em" width="40%" src="https://badge42.vercel.app/api/v2/cl1qj6fkg001609mcyfbtr00j/stats?cursusId=36&coalitionId=undefined"/>
+  <img height="180em" width="40%" src="https://badge42.vercel.app/api/v2/cl1qj6fkg001609mcyfbtr00j/stats?cursusId=21&coalitionId=undefined"/> -->
   </a>
 </div>
 
