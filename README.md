@@ -2,12 +2,12 @@
 </br>
 
 - 🎟️ Sou estudante de programação.
-- 🔥 Atualmente estou estudando C-lang.
+- 🔥 Atualmente estou estudando Linux.
 - ❤️ Meus pronomes são femeninos.
 - 🔭 Ainda não sei bem em qual carreira seguir. Mas experimento de tudo um pouco 😃.
-- 🦊 Meus hobbies são jogar e criar jogos.
+- 🦊 Meus hobbies são Programar e criar jogos.
 - 🏕️ Sobrevivente do Base Camp 42São Paulo. 
-- 🌠 Cadente da 42 São Paulo.
+- 🌠 Ex-cadete da 42 São Paulo.
 
 #
 
